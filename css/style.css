@@ -79,7 +79,8 @@ footer {
 }
 
 .texto-productos {
-    margin: 50px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 /* ----------------------------------------------PAGINA BLOG-------------------------------------------------- */
