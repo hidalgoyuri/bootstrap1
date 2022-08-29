@@ -70,5 +70,11 @@ footer {
 }
 
 .texto-nosotros1, .texto-nosotros2 {
-    margin: 20px
+    margin: 50px
+}
+
+/* ----------------------------------------------PAGINA BLOG-------------------------------------------------- */
+
+.texto-blog {
+    margin: 50px
 }
