@@ -62,3 +62,9 @@ footer {
 .bi-youtube:hover {
     color: #d90202
 }
+
+/* ----------------------------------------------PAGINA PRODUCTOS-------------------------------------------------- */
+
+.tabla-productos {
+    margin: 20px;
+}
