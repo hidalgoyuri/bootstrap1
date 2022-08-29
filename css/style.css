@@ -1,3 +1,26 @@
+.texto-banner-inicio{
+    justify-content: center;
+    color: white;
+    font-size: 4em;
+    text-align: center;
+    
+}
+
+/* boton */
+.button{
+    grid-area: button;
+    width: 180px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: #F34F36;
+    color: white;
+    border-color: #F34F36;
+    margin-top: 2rem;
+    justify-self: center;
+
+}
+
+
 footer {
     width: 100%;
     background: var(--lav);
