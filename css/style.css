@@ -79,7 +79,7 @@ footer {
     margin: 50px
 }
 
-.texto-productos {
+.texto-productos, .img-productos {
     margin-right: 50px;
     margin-left: 50px;
     margin-bottom: 30px;
