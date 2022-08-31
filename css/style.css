@@ -79,10 +79,15 @@ footer {
     margin: 50px
 }
 
-.texto-productos, .img-productos {
+.texto-productos {
     margin-right: 50px;
     margin-left: 50px;
     margin-bottom: 30px;
+}
+
+.img-productos {
+    margin-right: 50px;
+    margin-left: 50px;
 }
 
 /* ----------------------------------------------PAGINA BLOG-------------------------------------------------- */
