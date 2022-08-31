@@ -67,6 +67,15 @@ footer {
     justify-self: center;
 }
 
+
+/* ----------------------------------------------PAGINA NOSOTROS-------------------------------------------------- */
+
+.img-nosotros {
+    display: block;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
 /* ----------------------------------------------PAGINA PRODUCTOS-------------------------------------------------- */
 
 .tabla-productos {
