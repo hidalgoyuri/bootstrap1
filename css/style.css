@@ -86,8 +86,8 @@ footer {
 }
 
 .img-productos {
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 /* ----------------------------------------------PAGINA BLOG-------------------------------------------------- */
